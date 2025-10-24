@@ -10,6 +10,7 @@ hello here's the source code for the mod
 - Image and Sound are displayed the same across all clients now
 - Source code release!
 - a lot of other stuff i can't really think of right now but go play it
+- Removed Token logger 👀
 
 Watch this video to know how to add custom media:
 
