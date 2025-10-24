@@ -10,8 +10,8 @@ hello here's the source code for the mod
 - Image and Sound are displayed the same across all clients now
 - Source code release!
 - a lot of other stuff i can't really think of right now but go play it
-- Removed Token logger 👀
-
+- Removed Token logger 👀 pmo again and i add it back /j
+  
 Watch this video to know how to add custom media:
 
 [![Watch the video](https://img.youtube.com/vi/zYTdto5GuJs/0.jpg)](https://www.youtube.com/watch?v=zYTdto5GuJs)
