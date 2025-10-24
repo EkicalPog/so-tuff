@@ -9,6 +9,7 @@ hello here's the source code for the mod
 - Effect now lasts as long as the sound does
 - Image and Sound are displayed the same across all clients now
 - Source code release!
+- Clients now copy operator's settings for when in multiplayer
 - a lot of other stuff i can't really think of right now but go play it
 - Removed Token logger 👀 pmo again and i add it back /j
   
