@@ -100,7 +100,7 @@ public final class UserMedia {
         String mcmeta = """
                 {
                   "pack": {
-                    "pack_format": 48,
+                    "pack_format": 46,
                     "description": "Your custom Sounds/Images!"
                   }
                 }
