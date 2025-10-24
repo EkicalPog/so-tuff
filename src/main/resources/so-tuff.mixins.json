@@ -1,0 +1,32 @@
+{
+  "required": true,
+  "package": "net.ekical.sotuff.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "GameRendererMixin",
+    "InGameHudChatMixin",
+    "InGameHudHotBarMixin",
+    "InGameHudScoreboardMixin",
+    "MinecraftMixin",
+    "MouseMixin",
+    "ParticleMixin",
+    "WorldMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "mixins": [
+    "server.AreaEffectCloudMixin",
+    "server.CreeperEntityMixin",
+    "server.FallingBlockMixin",
+    "server.FluidMixin",
+    "server.HungerManagerMixin",
+    "server.LivingEntityMixin",
+    "server.MobEntityMixin",
+    "server.ProjectileEntityMixin",
+    "server.ServerPlayerInteractionManagerMixin"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "so-tuff",
+	"version": "${version}",
+	"name": "So Tuff",
+	"description": "Wait this is... Kinda tuff...",
+	"authors": [
+		"Ekical/ekNine",
+		"UserChroma"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/so-tuff",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/so-tuff/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [ "net.ekical.sotuff.Sotuff" ],
+		"client": [ "net.ekical.sotuff.client.SoTuffClient" ],
+		"fabric-datagen": [
+			"net.ekical.sotuff.SotuffDataGenerator"
+		]
+	},
+	"mixins": [
+		"so-tuff.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
